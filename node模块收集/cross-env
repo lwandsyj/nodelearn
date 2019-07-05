@@ -1,0 +1,8 @@
+1.cross-env : 运行跨平台设置和使用环境变量的脚本
+
+windows 环境下使用set NODE_ENV=dev
+linux   环境下使用export NODE_ENV=dev
+
+cross-env 跨平台设置
+
+cross-env NODE_ENV=production
